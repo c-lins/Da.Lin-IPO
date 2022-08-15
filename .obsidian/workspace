@@ -12,7 +12,7 @@
             "file": "README.md",
             "mode": "source",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         }
       }
@@ -138,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,13 +148,13 @@
   },
   "active": "904cff2de66d6c57",
   "lastOpenFiles": [
-    "技术/RocketMQ/2）案例介绍.md",
     "技术/RocketMQ/1）基础功能.md",
     "README.md",
-    "O-Blog/2021-09-10 Obsidian新手指南.md",
     "P-BARTS/群体进化-2022年第33期.md",
     "Templates/Blog模板.md",
     "Templates/BartsWeekly模板.md",
+    "技术/RocketMQ/2）案例介绍.md",
+    "O-Blog/2021-09-10 Obsidian新手指南.md",
     "技术/RocketMQ/3）高级功能.md",
     "2022-08-15.md",
     "技术/RocketMQ/RocketMQ笔记.md"
