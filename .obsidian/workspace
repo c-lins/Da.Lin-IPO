@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "06490bda128fa0da",
+    "type": "split",
+    "children": [
+      {
+        "id": "904cff2de66d6c57",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "O-Blog/2021-09-10 Obsidian新手指南.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89e9e93706f4fb82",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a66abd4941c15ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9ab97660835ff22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5beea04f056425d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce9992af80ea71bc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "635bcb32c9886a28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239
+  },
+  "right": {
+    "id": "f058a99d4ee5c1a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1a43e4a312afcec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb7e82c9633f352c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "O-Blog/2021-09-10 Obsidian新手指南.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fba55b52bbf64ee2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "O-Blog/2021-09-10 Obsidian新手指南.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24e6697be4683428",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "O-Blog/2021-09-10 Obsidian新手指南.md"
+              }
+            }
+          },
+          {
+            "id": "b97848e63ce47ac6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3fb12f6001cf1165",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5,
+    "collapsed": true
+  },
+  "active": "f9ab97660835ff22",
+  "lastOpenFiles": [
+    "P-BARTS/群体进化-2022年第33期.md",
+    "README.md",
+    "O-Blog/2021-09-10 Obsidian新手指南.md",
+    "Templates/Blog模板.md",
+    "Templates/BartsWeekly模板.md",
+    "技术/RocketMQ/1）基础功能.md",
+    "技术/RocketMQ/3）高级功能.md",
+    "技术/RocketMQ/2）案例介绍.md",
+    "2022-08-15.md",
+    "技术/RocketMQ/RocketMQ笔记.md"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "attachmentFolderPath": "Resource",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "foldHeading": false,
+  "foldIndent": false,
+  "emacsyKeys": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "showUnsupportedFiles": true,
+  "vimMode": false,
+  "showFrontmatter": true,
+  "legacyEditor": false,
+  "livePreview": true
+}
