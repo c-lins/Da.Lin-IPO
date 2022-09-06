@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "904cff2de66d6c57",
+        "id": "19ab169044d29705",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "O-Blog/2022-09-06 大健康新消费分析.md",
+            "file": "O-Blog/2021-09-10 Obsidian新手指南.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O-Blog/2022-09-06 大健康新消费分析.md",
+                "file": "O-Blog/2021-09-10 Obsidian新手指南.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +106,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O-Blog/2022-09-06 大健康新消费分析.md",
+                "file": "O-Blog/2021-09-10 Obsidian新手指南.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O-Blog/2022-09-06 大健康新消费分析.md"
+                "file": "O-Blog/2021-09-10 Obsidian新手指南.md"
               }
             }
           },
@@ -139,24 +139,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
-  "active": "904cff2de66d6c57",
+  "active": "19ab169044d29705",
   "lastOpenFiles": [
     "行业/大健康/新消费-新流量/流量平台.md",
-    "行业/大健康/新消费-新流量/医疗MCN.md",
     "行业/大健康/新消费-新流量/用户需求.md",
+    "行业/大健康/新消费-新流量/医疗MCN.md",
     "O-Blog/2022-09-06 大健康新消费分析.md",
+    "行业/大健康/新消费-新流量/个人KOC.md",
     "O-Blog/2021-09-10 Obsidian新手指南.md",
     "README.md",
     "技术/RocketMQ/1）基础功能.md",
     "P-BARTS/群体进化-2022年第33期.md",
-    "Templates/Blog模板.md",
-    "Templates/BartsWeekly模板.md"
+    "Templates/Blog模板.md"
   ]
 }
