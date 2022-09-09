@@ -6,6 +6,8 @@
 
 ### 九部门联合发文，纠正医药购销领域和医疗服务中不正之风
 https://www.xingning.gov.cn/mzxnwsj/gkmlpt/content/2/2350/post_2350151.html#7497
+### 制造网红医生：经纪团队全权接手，医院并不公开阻拦
+https://new.qq.com/rain/a/20220803A090LM00
 
 
 # 南方健康
@@ -27,4 +29,8 @@ https://www.xingning.gov.cn/mzxnwsj/gkmlpt/content/2/2350/post_2350151.html#7497
 广州市第一人民医院
 ![[Pasted image 20220905170309.png]]
 
-# 
+#  有点东西 -- **好货不分南北，健康有点东西**
+健康产品的功能，要有专家背书；健康产品的效用，要有数据支撑；健康产品的成交，要以品质驱动；健康产品的用户，要因价值而来。因此，大健康企业入场直播的正确姿势，一定是**要种草，不要叫卖；要有品，不要低价；要真用户，不要羊毛党。**
+![[Pasted image 20220908170618.png]]
+![[Pasted image 20220908170742.png]]
+![[Pasted image 20220908170807.png]]
