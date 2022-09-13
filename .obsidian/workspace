@@ -7,12 +7,9 @@
         "id": "2c01351ea4983600",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "行业/大健康/新消费-新流量/医疗MCN.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
+            "file": "Resource/磁力数观-2021快手大健康行业报告v1.0-35页.pdf"
           }
         }
       }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "行业/大健康/新消费-新流量/医疗MCN.md",
+                "file": "Resource/磁力数观-2021快手大健康行业报告v1.0-35页.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "行业/大健康/新消费-新流量/医疗MCN.md",
+                "file": "Resource/磁力数观-2021快手大健康行业报告v1.0-35页.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "行业/大健康/新消费-新流量/医疗MCN.md"
+                "file": "Resource/磁力数观-2021快手大健康行业报告v1.0-35页.pdf"
               }
             }
           },
@@ -150,13 +147,13 @@
   "lastOpenFiles": [
     "行业/大健康/新消费-新流量/流量平台.md",
     "行业/大健康/新消费-新流量/医疗MCN.md",
+    "www.wuyabuluo.com/thread-121221-1-1.html.md",
     "行业/大健康/新消费-新流量/测评博主.md",
     "行业/大健康/新消费-新流量/用户需求.md",
     "Resource/Pasted image 20210914141226.png",
     "Resource/Pasted image 20210914142351.png",
     "Resource/Pasted image 20210914141200.png",
     "O-Blog/2021-09-10 Obsidian新手指南.md",
-    "O-Blog/2022-09-06 大健康新消费分析.md",
-    "www.wuyabuluo.com/thread-121221-1-1.html.md"
+    "O-Blog/2022-09-06 大健康新消费分析.md"
   ]
 }
